@@ -1,8 +1,10 @@
-# Olá, eu sou Wasse Lucas 😎
-- 📚💻 Sou formando em  Análise e Desenvolvimento Sistemas.
-- 💻 Atualmente trabalho como Analista de Sitemas na Linx - Menew
-- 💻 Estuciasta da cultura DevOps
-- 💻 📚 Desenvolvedor Web Full Stack | React | Node.Js | Nest | Java | Docker | MySql
+
+## 🔥 Sobre mim
+- 📚💻 Formando em **Análise e Desenvolvimento de Sistemas**  
+- 💼 Atualmente: **Analista de Sistemas** na **Linx - Menew**  
+- 🚀 **Dev Full Stack** com foco em **React**| **Node.js/Nest**| **Java/Spring**| **Docker** | **MySQL**  
+- ⚙️ Entusiasta da **cultura DevOps**: automação, CI/CD, containerização e boas práticas- (Me aventurando)
+
 
 
 <div style="display: inline_block" ><br>
@@ -28,7 +30,8 @@
 <div>
   <a href="https://www.linkedin.com/in/wasse-lucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wasselucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wasselucas.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wasselucas.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?
+style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![snake gif](https://github.com/WasseLucas/wasselucaspb/blob/output/github-contribution-grid-snake.svg)
+
